@@ -16,9 +16,9 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 **하드웨어**  
-![Arduino](https://img.shields.io/badge/Arduino-Uno-00979D?style=flat&logo=arduino&logoColor=white)  
+![Arduino Uno](https://img.shields.io/badge/Arduino%20Uno-00979D?style=flat&logo=arduino&logoColor=white)  
 ![STM32](https://img.shields.io/badge/STM32-CubeIDE-blue)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Model%203--B-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?
 
 **센서 & 장치**  
 - 온습도 센서 (DHT 계열, 실외 설치)  
@@ -50,11 +50,10 @@
 
 ## 👤 담당 역할
 
-- 센서 입력값 기반 환기 조건 판단 및 자동 제어 로직 구현 (C 언어)
-- 낮/밤 시간대에 따른 창문 제어 알고리즘 설계
-- 모터 구동 회로 설계 및 GPIO 제어 구현
-- LCD를 활용한 창문 상태 시각화
-- 앱과 연동된 수동 제어 기능 구현 및 테스트
+- Arduino에서 Bluetooth로 수신한 환기 명령을 기반으로 창문 개폐 로직을 구현하고, LCD에 상태 및 잔여 시간을 시각화  
+- Android 앱과 연동된 수동 개폐 기능 구현  
+- 팀원과 협업하여 하드웨어 회로 및 시스템 구조 설계에 일부 참여
+
 
 ---
 
