@@ -13,14 +13,17 @@
 ## 🛠️ 사용 기술 및 환경
 
 **프로그래밍 언어**  
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
 **하드웨어**  
-![Arduino Uno](https://img.shields.io/badge/Arduino%20Uno-00979D?style=flat&logo=arduino&logoColor=white)  
-![STM32](https://img.shields.io/badge/STM32-CubeIDE-blue)  
+
+![Arduino Uno](https://img.shields.io/badge/Arduino%20Uno-00979D?style=flat&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-CubeIDE-blue)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 
 **센서 & 장치**  
+
 - 온습도 센서 (DHT 계열, 실외 설치)  
 - 조도 센서  
 - 물 감지 센서 (빗물/눈 감지)  
