@@ -21,7 +21,7 @@
 **하드웨어**  
 
 ![Arduino Uno](https://img.shields.io/badge/Arduino%20Uno-00979D?style=flat&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-CubeIDE-blue)
+![STM32](https://img.shields.io/badge/STM32-blue)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 
 **센서 & 장치**  
