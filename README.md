@@ -12,6 +12,31 @@
 
 ---
 
+## 🖼 시스템 외관
+<img src="./images/스마트환기_외관.png" width="400px">
+
+실외 센서로 날씨 상태를 감지하고, 실내 LCD에 환기 상태를 시각적으로 표시하는 구조
+
+**구성 요소 및 역할**
+
+- **실외 설치 센서**: 낮/밤 확인 여부를 위한 조도, 온습도, 물 감지 센서로 강수 상황 등 실시간 감지
+- **실내 LCD 출력**: 창문 상태와 남은 환기 시간을 실시간으로 표시
+
+---
+
+## 🎬 시연 영상
+
+[![스마트 환기 시스템 시연 (앞모습)](https://img.youtube.com/vi/B9C68H67jJw/hqdefault.jpg)](https://www.youtube.com/watch?v=B9C68H67jJw)
+> 대표 영상: 시스템의 전체 외관과 동작을 정면에서 시연한 영상입니다.
+
+**기능별 영상 목록**
+- [자동 환기 (밤 ver)](https://www.youtube.com/watch?v=wj5dwBAiQyQ)
+- [자동 환기 (낮 ver)](https://www.youtube.com/watch?v=7BeJ7oZOGAQ)
+- [수동 제어](https://www.youtube.com/watch?v=WrUHRRQA55w)
+- [시연 (뒷모습)](https://www.youtube.com/watch?v=XbNx82TxVpQ)
+
+---
+
 ## 🛠️ 사용 기술 및 환경
 
 **프로그래밍 언어**  
